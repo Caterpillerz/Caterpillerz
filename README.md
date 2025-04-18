@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Caterpillerz :)
-- Miami University student
-- Majoring in CS and ETBD (Emerging Tech in Business & Design)
-- Minoring in Games + Simulation
-- Professional epic guy
+- 👋😊  Hi, I’m @Caterpillerz :)
+- 🔴🦅  Miami University student
+- 🦖🎉  Professional epic guy
+- Game developer in the developing!
 
 <!---
 Caterpillerz/Caterpillerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
